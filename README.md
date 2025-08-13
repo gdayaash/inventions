@@ -45,3 +45,7 @@ Download or clone this repository into your wp-content/plugins directory.
 => Tag IDs in $tag_map
 
 => Activate the plugin from the WordPress admin panel.
+
+# Folder Structure
+
+![alt text](image.png)
